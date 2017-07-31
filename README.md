@@ -8,6 +8,12 @@
 
 每一个程序员都不能固步自封，要多接触新的行业，新的技术领域，突破自我。
 
+## 设计模式系列
+
+- [Java设计模式](https://www.gitbook.com/book/alleniverson/java-design-patterns/details)
+- [Java和Android设计模式](https://www.gitbook.com/book/alleniverson/design-pattern/details)
+- [C/C++设计模式](https://www.gitbook.com/book/alleniverson/cpp_design_pattern/details)
+
 ## 目录
 
 * [前言](README.md)
